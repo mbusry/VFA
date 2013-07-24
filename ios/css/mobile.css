@@ -1,5 +1,5 @@
 body {
-	background-image: url('../images/hands.jpg');
+	/*background-image: url('../images/hands.jpg');*/
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100%;
@@ -8,7 +8,7 @@ body {
 
 h1 {
 	font: Ariel;
-	font-size: 150%;
+	font-size: 1.5em;
 	font-weight: bold;
 	color: black;
 }
@@ -40,7 +40,7 @@ ul li label {
 
 .temp {
 	font-family: "Times New Roman", Times, serif;
-	font-size: 125%;
+	font-size: 1.2em;
 	font-weight: bolder;
 	color: #00F;
 	vertical-align: top;
@@ -53,19 +53,19 @@ ul li label {
 #title {
 	padding-top: 10%;
 	font-family: serif;
-	font-size: 300%;
+	font-size: 4em;
 	text-align: center;
 }
 
 #courseInfo {
 	font-family: serif;
-	font-size: 130%;
+	font-size: 1.3em;
 	text-align: center;
 }
 
 #courseDesc {
 	font-family: serif;
-	font-size: 150%;
+	font-size: 1.5em;
 	font-weight: bolder;
 	color: #000;
 	height: auto;
@@ -80,9 +80,9 @@ ul li label {
 	border: 2px solid #a1a1a1;
 	background:#ddd;
 	padding: 5px;
-	width:100px;
+	width:300px;
 	border-radius:20px;
-	float:right;
+	float:top;
 	text-align: center;
 	line-height: 2em;
 	/*line-height: 150%;
